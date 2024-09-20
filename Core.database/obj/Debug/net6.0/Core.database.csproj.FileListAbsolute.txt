@@ -1,0 +1,37 @@
+D:\efood1\Source\Foodmenegement\Core.database\bin\Debug\net6.0\Core.database.deps.json
+D:\efood1\Source\Foodmenegement\Core.database\bin\Debug\net6.0\Core.database.dll
+D:\efood1\Source\Foodmenegement\Core.database\bin\Debug\net6.0\Core.database.pdb
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\Core.database.GeneratedMSBuildEditorConfig.editorconfig
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\Core.database.AssemblyInfoInputs.cache
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\Core.database.AssemblyInfo.cs
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\Core.database.csproj.CoreCompileInputs.cache
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\Core.database.dll
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\refint\Core.database.dll
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\Core.database.pdb
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\ref\Core.database.dll
+D:\efood1\Source\Foodmenegement\Core.database\obj\Debug\net6.0\Core.database.csproj.AssemblyReference.cache
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\bin\Debug\net6.0\Core.database.deps.json
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\bin\Debug\net6.0\Core.database.dll
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\bin\Debug\net6.0\Core.database.pdb
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.csproj.AssemblyReference.cache
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.GeneratedMSBuildEditorConfig.editorconfig
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.AssemblyInfoInputs.cache
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.AssemblyInfo.cs
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.csproj.CoreCompileInputs.cache
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.dll
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\refint\Core.database.dll
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.pdb
+D:\doantotnghiep\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\ref\Core.database.dll
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\bin\Debug\net6.0\Core.database.deps.json
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\bin\Debug\net6.0\Core.database.dll
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\bin\Debug\net6.0\Core.database.pdb
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.dll
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\refint\Core.database.dll
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.pdb
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\ref\Core.database.dll
+D:\Đồ án tốt nghiệp TMDT\Eshop\Source\Shopmenagement\Core.database\obj\Debug\net6.0\Core.database.sourcelink.json
